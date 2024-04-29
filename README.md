@@ -4,7 +4,7 @@ The Java Phonebook Management System (JPMS) is a web-based application developed
 
 Key Features:
 
-> User Authentication: Secure registration and login functionality ensure authorized access to the system.
+ User Authentication: Secure registration and login functionality ensure authorized access to the system.
 >Contact Management: Users can effortlessly add, view, edit, and delete contacts, including details like name, phone number, email, and notes.
 >Search Functionality: Intuitive search options enable quick retrieval of contacts by various attributes.
 >Sorting and Filtering: Contacts can be sorted and filtered based on multiple criteria for better organization.
