@@ -5,15 +5,15 @@ The Java Phonebook Management System (JPMS) is a web-based application developed
 Key Features:
 
  User Authentication: Secure registration and login functionality ensure authorized access to the system.
->Contact Management: Users can effortlessly add, view, edit, and delete contacts, including details like name, phone number, email, and notes.
->Search Functionality: Intuitive search options enable quick retrieval of contacts by various attributes.
->Sorting and Filtering: Contacts can be sorted and filtered based on multiple criteria for better organization.
->Grouping Contacts: Contacts can be categorized into groups or lists to enhance management efficiency.
->User Interface: A user-friendly interface developed with JSP ensures seamless navigation and interaction.
->Data Validation: Input validation mechanisms guarantee data accuracy and prevent errors.
->Security: Robust security measures protect user data and prevent unauthorized access.
->Data Persistence: Contact information is securely stored in a MySQL database, ensuring data integrity.
->Error Handling: Effective error handling mechanisms provide informative feedback to users in case of exceptions.
+Contact Management: Users can effortlessly add, view, edit, and delete contacts, including details like name, phone number, email, and notes.
+Search Functionality: Intuitive search options enable quick retrieval of contacts by various attributes.
+Sorting and Filtering: Contacts can be sorted and filtered based on multiple criteria for better organization.
+Grouping Contacts: Contacts can be categorized into groups or lists to enhance management efficiency.
+User Interface: A user-friendly interface developed with JSP ensures seamless navigation and interaction.
+Data Validation: Input validation mechanisms guarantee data accuracy and prevent errors.
+Security: Robust security measures protect user data and prevent unauthorized access.
+Data Persistence: Contact information is securely stored in a MySQL database, ensuring data integrity.
+Error Handling: Effective error handling mechanisms provide informative feedback to users in case of exceptions.
 
 Technology Stack:
 
