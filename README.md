@@ -17,7 +17,7 @@ Error Handling: Effective error handling mechanisms provide informative feedback
 
 Technology Stack:
 
-Java Servlets and JSP: For server-side logic and dynamic web page generation.
+•Java Servlets and JSP: For server-side logic and dynamic web page generation.
 JDBC: Facilitates interaction with the MySQL database for CRUD operations on contact data.
 MySQL Database: Stores contact information securely.
 Apache Tomcat: Web server for deploying and running the Java web application.
