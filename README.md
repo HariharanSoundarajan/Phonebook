@@ -22,13 +22,19 @@ Technology Stack:
 •JDBC: Facilitates interaction with the MySQL database for CRUD operations on contact data.
 
 •MySQL Database: Stores contact information securely.
+
 •Apache Tomcat: Web server for deploying and running the Java web application.
+
 •HTML/CSS/JavaScript: Frontend technologies for the user interface and client-side interactivity.
 
 Development Process:
 
 •Requirements Gathering: Understanding user needs and system functionalities.
+
 •Design: Designing database schema, user interface, and system architecture.
+
 •Implementation: Developing Java Servlets, JSP pages, JDBC code, and SQL queries.
+
 •Testing: Thorough testing to ensure compliance with requirements and bug-free operation.
+
 •Deployment: Deploying the application on a web server like Apache Tomcat for user access.
